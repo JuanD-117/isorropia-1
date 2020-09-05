@@ -5,7 +5,7 @@ class Navbar extends React.Component{
     render(){
         return(
             <div className='Navbar'>
-                <img className=''LOGO/>
+                <img src="" className='LOGO' />
                 <div className='container-fluid'>
                     <a className='Navbar__brand' href='/'>
                         <span className='font-weight-light'>INICIO DE SESION</span>
